@@ -4,3 +4,5 @@ model/yolo11x-obb.pt
 model/yolo11x-pose.pt
 model/yolo11x-seg.pt
 model/yolo11x.pt
+
+opencv-4.11.0-windows.exe in the https://github.com/opencv/opencv/releases

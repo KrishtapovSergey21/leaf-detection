@@ -1,0 +1,5 @@
+train: ./dataset
+val: ./dataset
+names:
+    0: lateral
+    1: backwall
