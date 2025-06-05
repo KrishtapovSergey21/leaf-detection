@@ -1,0 +1,6 @@
+python3.9-package/torch-2.6.0-cp39-cp39-win_amd64.whl
+model/yolo11x-cls.pt
+model/yolo11x-obb.pt
+model/yolo11x-pose.pt
+model/yolo11x-seg.pt
+model/yolo11x.pt
